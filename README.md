@@ -4,8 +4,11 @@ This is a Book Shop & fully functional-Ecommerce Site.
 
 
 
-##### Footer
+##### Home Page
 ![ScreenShot of Form](screenshots/a.png)
+
+
+
 
 ##### Customer Reviews
 ![ScreenShot of Form](screenshots/b.png)

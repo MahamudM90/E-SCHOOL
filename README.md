@@ -16,7 +16,7 @@ This is a Book Shop & fully functional-Ecommerce Site.
 
 
 
-##### CartPage
+##### Online Courses
 ![ScreenShot of Form](screenshots/c.png)
 
 ##### Shipping 

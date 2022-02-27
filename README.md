@@ -10,8 +10,11 @@ This is a Book Shop & fully functional-Ecommerce Site.
 
 
 
-##### Customer Reviews
+##### Customer Showing Page
 ![ScreenShot of Form](screenshots/b.png)
+
+
+
 
 ##### CartPage
 ![ScreenShot of Form](screenshots/c.png)

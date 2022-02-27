@@ -1,7 +1,6 @@
 ## BOI-GHAR 📚
 
-This is a Book Shop & fully functional-Ecommerce Site. 
-
+This is the Ui Design of E-School Learning Platform 
 
 
 ##### Home Page

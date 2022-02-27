@@ -21,10 +21,13 @@ This is a Book Shop & fully functional-Ecommerce Site.
 
 
 
-##### Shipping 
+##### Testimonial
 ![ScreenShot of Form](screenshots/d.png)
 
-##### Payment
+
+
+
+##### Footer
 ![ScreenShot of Form](screenshots/e.png)
 
 

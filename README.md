@@ -1,6 +1,6 @@
 ## E-SCHOOL 📚
 
-This is the Ui Design of E-School Learning Platform 🏫 
+This is the Ui Design of E-School Learning Platform🏫 
 
 
 ##### Home Page

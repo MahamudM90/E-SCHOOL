@@ -1,4 +1,4 @@
-## BOI-GHAR 📚
+## E-SCHOOL 📚
 
 This is the Ui Design of E-School Learning Platform 
 

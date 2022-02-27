@@ -9,7 +9,7 @@ This is the Ui Design of E-School Learning Platform🏡
 
 
 
-##### Customer Showing Page
+##### Students Showing Page
 ![ScreenShot of Form](screenshots/b.png)
 
 
